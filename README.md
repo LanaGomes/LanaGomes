@@ -1,6 +1,6 @@
 ### Hello! I'm Lana! :nerd_face:
 
-- 🌱 I’m currently learning Javascript, CSS
+- 🌱 I’m currently learning React
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was born in my home, I had a sixth finger :ok_hand: and  I love to get to know new places :smiling_face_with_three_hearts:
 
