@@ -4,11 +4,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was born in my home, I had a sixth finger :ok_hand: and  I love to get to know new places :smiling_face_with_three_hearts:
 
-<div align="center">
-  <a href="https://github.com/lanagomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lanagomes&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanagomes&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
+
 <div style="display: flex" align-itens= "center" align="center" ><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
