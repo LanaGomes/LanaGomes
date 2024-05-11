@@ -1,11 +1,11 @@
 ### Hello! I'm Lana! :nerd_face:
 
 🌱 I’m currently learning React and Tailwind CSS. I'm also working on personal projects to acquire all the skills I need to enter the job market.
-😄 Pronouns: she/her
-⚡ More about me: 
-🖌  I love to draw! https://www.instagram.com/lanahermana_art/
-😏 I have a youtube channel where I talk about my front-end journey : https://youtu.be/GZP8M5TVvF4
-😌 I colaborated with a pixel game (2d art and animation) 
+😄 Pronouns: she/her <br>
+⚡ More about me:  <br>
+🖌  I love to draw! https://www.instagram.com/lanahermana_art/ <br>
+😏 I have a youtube channel where I talk about my front-end journey : https://youtu.be/GZP8M5TVvF4 <br>
+😌 I colaborated with a pixel game (2d art and animation)  <br>
 
 
 
