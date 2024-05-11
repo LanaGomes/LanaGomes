@@ -1,8 +1,12 @@
 ### Hello! I'm Lana! :nerd_face:
 
-- 🌱 I’m currently learning React
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I was born in my home, I had a sixth finger :ok_hand: and  I love to get to know new places :smiling_face_with_three_hearts:
+🌱 I’m currently learning React and Tailwind CSS. I'm also working on personal projects to acquire all the skills I need to enter the job market.
+😄 Pronouns: she/her
+⚡ More about me: 
+🖌  I love to draw! https://www.instagram.com/lanahermana_art/
+😏 I have a youtube channel where I talk about my front-end journey : https://youtu.be/GZP8M5TVvF4
+😌 I colaborated with a pixel game (2d art and animation) 
+
 
 
 <div style="display: flex" align-itens= "center" align="center" ><br>
