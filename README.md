@@ -21,7 +21,7 @@ Também estou trabalhando em projetos pessoais para adquirir todas as habilidade
 ⚡ Mais sobre mim: <br>
 🖌 Eu amo desenhar! https://www.instagram.com/lanahermana_art/ <br>
 😏 Tenho um canal no YouTube onde falo sobre minha jornada de front-end: https://youtu.be/GZP8M5TVvF4 <br>
-😌 Colaborei com um jogo de pixel (arte 2D e animação) <br>
+😌 Tenho um gato preto chamado Odin, amo abelhas e artes em geral! <br>
 
 
 
