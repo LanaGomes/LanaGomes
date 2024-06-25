@@ -8,7 +8,7 @@ I'm also working on personal projects to acquire all the skills I need to enter 
 ⚡ More about me:  <br>
 🖌  I love to draw! https://www.instagram.com/lanahermana_art/ <br>
 😏 I have a youtube channel where I talk about my front-end journey : https://youtu.be/GZP8M5TVvF4 <br>
-😌 I colaborated with a pixel game (2d art and animation)  <br>
+😌 I have a black cat called Odin, I love bees and I love art  <br>
 
 ---------------------------------------------------------------------------
 ### Olá! Eu sou a Lana! 🤓 (PORTUGUÊS)
