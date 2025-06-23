@@ -1,26 +1,24 @@
 ### Hello! I'm Lana! :nerd_face: (ENGLISH)
 
-🌱 I’m currently learning React and Tailwind CSS. <br>
+🌱 I’m currently learning Next.js <br>
 I'm also working on personal projects to acquire all the skills I need to enter the job market. <br>
 
 😄 Pronouns: she/her <br>
 
 ⚡ More about me:  <br>
 🖌  I love to draw! https://www.instagram.com/lanahermana_art/ <br>
-😏 I have a youtube channel where I talk about my front-end journey : https://youtu.be/GZP8M5TVvF4 <br>
 😌 I have a black cat called Odin, I love bees and I love art  <br>
 
 ---------------------------------------------------------------------------
 ### Olá! Eu sou a Lana! 🤓 (PORTUGUÊS)
 
-🌱 Atualmente estou aprendendo React e Tailwind CSS. <br>
+🌱 Atualmente estou aprendendo Next.js <br>
 Também estou trabalhando em projetos pessoais para adquirir todas as habilidades necessárias para entrar no mercado de trabalho.
 
 😄 Pronomes: ela/dela <br>
 
 ⚡ Mais sobre mim: <br>
 🖌 Eu amo desenhar! https://www.instagram.com/lanahermana_art/ <br>
-😏 Tenho um canal no YouTube onde falo sobre minha jornada de front-end: https://youtu.be/GZP8M5TVvF4 <br>
 😌 Tenho um gato preto chamado Odin, amo abelhas e artes em geral! <br>
 
 
